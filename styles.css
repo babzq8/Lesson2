@@ -81,8 +81,9 @@ header {
 }
 
 #navigation li {
-    display: inline;
-    padding: 5.25em;
+    display: inline-flex;
+    justify-content: space-around;
+    width: 33%;
 }
 
 .title {
